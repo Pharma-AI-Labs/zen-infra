@@ -24,4 +24,3 @@ output "vpc_id" {
 }
 
 
-}
